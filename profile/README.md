@@ -16,7 +16,7 @@ To join, contact Tatsumoto through
 If you want to learn a foreign language and don't know where to start, read the
 [Tatsumoto website](https://tatsumoto.neocities.org/).
 
-## Becoming a Sponsor
+## Become a Sponsor
 
 If you are interested in sponsoring the Ajatt-Tools organization, please look at the
 [Donation page](https://tatsumoto.neocities.org/blog/donating-to-tatsumoto.html).
