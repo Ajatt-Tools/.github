@@ -11,6 +11,10 @@ you can join the organization and transfer your repositories here.
 To join, contact Tatsumoto through
 [our community](https://tatsumoto.neocities.org/blog/join-our-community.html).
 
+Follow
+[Transferring a repository owned by your personal account](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository#transferring-a-repository-owned-by-your-personal-account)
+to contribute your repo.
+
 ## Become an AJATTer
 
 If you want to learn a foreign language and don't know where to start, read the
