@@ -2,7 +2,7 @@
 
 Ajatt-Tools is a collection of software projects that help people learn languages.
 The programs and tools gathered here support the
-[AJATT philosophy](https://tatsumoto.neocities.org/blog/faq.html#whats-ajatt).
+[AJATT philosophy](https://tatsumoto.neocities.org/blog/whats-ajatt).
 
 ## Join us
 
