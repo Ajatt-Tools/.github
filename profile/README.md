@@ -28,4 +28,4 @@ If you are interested in sponsoring the Ajatt-Tools organization, please look at
 ## Help us write code
 
 After you become a member of the organization, please visit the **[Goals](https://github.com/Ajatt-Tools/Goals/)** repository.
-There are many unfinished software that we need to write and release to make language learning easier for everyone.
+There are many unfinished software projects that we need to write and release to make language learning easier for everyone.
