@@ -24,3 +24,8 @@ If you want to learn a foreign language and don't know where to start, read the
 
 If you are interested in sponsoring the Ajatt-Tools organization, please look at the
 [Donation page](https://tatsumoto.neocities.org/blog/donating-to-tatsumoto.html).
+
+## Help us write code
+
+After you become a member of the organization, please visit the **[Goals](https://github.com/Ajatt-Tools/Goals/)** repository.
+There are many unfinished software that we need to write and release to make language learning easier for everyone.
