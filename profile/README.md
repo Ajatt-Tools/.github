@@ -4,6 +4,12 @@ Ajatt-Tools is a collection of software projects that help people learn language
 The programs and tools gathered here support the
 [AJATT philosophy](https://tatsumoto.neocities.org/blog/whats-ajatt).
 
+## Mission
+
+Ajatt-Tools is a joint effort.
+The goal of Ajatt-Tools is to collect all libre software for language learning **in one place**.
+When everything is in one place, it's easy to find software, and it's easy to help each other.
+
 ## Join us
 
 If you're a programmer and you're creating new tools or resources for language learners,
