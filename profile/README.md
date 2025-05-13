@@ -1,3 +1,5 @@
+[![chat join logo](https://img.shields.io/static/v1?label=Chat&message=join&color=brightgreen&style=for-the-badge&logo=telegram)](https://tatsumoto.neocities.org/blog/join-our-community)
+
 # Ajatt-Tools
 
 Ajatt-Tools is a collection of software projects that help people learn languages.
