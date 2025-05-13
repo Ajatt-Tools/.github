@@ -1,4 +1,4 @@
-[![chat join logo](https://img.shields.io/static/v1?label=Chat&message=join&color=brightgreen&style=for-the-badge&logo=telegram)](https://tatsumoto.neocities.org/blog/join-our-community)
+[![chat join logo](https://img.shields.io/static/v1?label=Chat&message=join&color=3faee8&style=for-the-badge&logo=telegram)](https://tatsumoto.neocities.org/blog/join-our-community)
 
 # Ajatt-Tools
 
